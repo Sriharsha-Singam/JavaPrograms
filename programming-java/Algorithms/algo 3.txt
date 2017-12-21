@@ -1,0 +1,5 @@
+-accept the names using an array(String)
+-using a for loop arrange these into ascending order based on their 1st letter.
+-display the array
+-Same for age
+-display the array

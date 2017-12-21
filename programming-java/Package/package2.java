@@ -1,0 +1,15 @@
+import java.io.*;
+import java.util.*;
+import Sriharsha.*;
+public class package2
+
+{
+ public static void main(String arg[]) throws IOException
+ 
+    {
+	 System.out.println("Would like to open a calculator=1;or a word=2;or a google chrome=3;or a power point=4;or a vlc media player=5 ;or a paint doc=6;or mozilla firefox=7;or a task manager=;or an image of8!");
+	 
+    }
+	
+	
+}                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         

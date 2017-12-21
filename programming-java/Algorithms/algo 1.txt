@@ -1,0 +1,10 @@
+Algorithm
+ 1
+  -Accept a sentence from the user
+  -Accept the letter to see how many times it will occur as CharAt
+  -create a for loop
+  -make it go for as long as the length of the sentence
+  -find each letter using charat
+  -if the letter is equal to the letter entered by the user add 1 to a variable
+  -else nothing
+  -print the occurence

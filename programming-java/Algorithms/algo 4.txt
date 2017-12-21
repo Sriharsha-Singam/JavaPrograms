@@ -1,0 +1,6 @@
+-print 2 5 4 1 3
+-using a for loop compare each value with the other numbers
+-if the number is more than the next bring it up'
+-else move down
+-display the 0th index and the 4th index
+-print the length using length method

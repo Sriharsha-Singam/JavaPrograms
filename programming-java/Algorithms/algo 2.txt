@@ -1,0 +1,6 @@
+create an array of size 5
+enter the values Dehli Bangalore Agra Mumbai Chennai
+display the array
+create a for loop
+using bubble sort sort the first letters of each name into alphabetical order
+display the output
